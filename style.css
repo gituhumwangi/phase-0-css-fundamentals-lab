@@ -3,3 +3,49 @@ body {
   height: 100%;
   margin: 0;
 }
+h1 {
+  text-align: center;
+}
+
+ section#featured-property  {
+  display: block;
+  margin-left: auto;
+  margin-right: auto;
+  width: 50%;
+  text-align: center;
+}
+
+ nav {
+  list-style-type: none;
+  margin: none;
+  padding: 10px;
+  text-align: center;
+  color: blue;
+  background-color: aqua;
+}
+
+img {
+  display: block;
+  margin-left: auto;
+  margin-right: auto;
+  width: 50%;
+}
+
+section#details {
+  text-align: center;
+  border: 3px solid green;
+  width: 800px;
+}
+ 
+div {
+  margin: auto;
+  width: 50%;
+  border: 3px solid green;
+  text-align: center;
+}
+
+div {
+  background-color: red;
+  text-align: center;
+  width: 25%;
+}
